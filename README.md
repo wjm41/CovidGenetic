@@ -1,3 +1,5 @@
+**This code has been merged into a [more comprehensive collection](https://github.com/wjm41/covid-moonshot) of ML code for the covid moonshot. This repo will therefore be archived.**
+
 # CovidGenetic
 Genetic algorithm search for molecules with high similarities to known COVID-19 protease inhibitors - recap on the protease can be found [here](https://pdb101.rcsb.org/motm/242)
 
